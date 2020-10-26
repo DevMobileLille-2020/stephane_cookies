@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MyCookie</string>
+    <string name="title_activity_shopping">Shopping</string>
+    <string name="tab_text_1">Monster</string>
+    <string name="tab_text_2">Background</string>
+    <string name="tab_text_3">Bonus</string>
+</resources>
